@@ -1,0 +1,8 @@
+Programme Title : Computer Engineering and Software Systems
+Coursework Title : Projects
+Module Name (UEL) : Computer and Network Security (1)
+Course Name (ASU) : Computer and Network Security (1)
+Module/Course Code : EG7643 / CSE451
+Level UEL/ASU : 6 / 4
+UEL Credit Rating : 15 Credits ASU Credit Rating : 3 Credits
+Weighting : 25%
